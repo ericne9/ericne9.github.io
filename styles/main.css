@@ -1,0 +1,130 @@
+* {
+    margin: 0; 
+    padding: 0
+    
+}
+body {
+    
+    font-family: 'Lato', sans-serif;
+}
+.full-width {
+    width: 100%;
+    height: 100vh;
+}
+h1 {
+    font-size: 40px;
+    padding: 8px 16px;
+}
+nav {
+    background-color: lightgray;
+    
+}
+nav a {
+    display:inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    color: black
+}
+nav .active {
+    background-color: darkgray;
+}
+h3 {
+    color: lightgray;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 12px 0px;
+    text-decoration: none;
+    
+}
+h2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+}
+
+.works-background {
+    background-color: #f7f7f7
+}
+.main-content {
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+.credits {
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+h4 {
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 36px;
+}
+li {
+    font-size: 16px;
+    color:lightgray;
+    margin-top: 4px;
+}
+.splash {
+    position:relative;
+}
+.text-content {
+    width: 100%;
+    top: 25%;
+    position:absolute;
+    color:white;
+    text-align: center;
+}
+
+.lead-link {
+    color: #E7E7E7;
+}
+
+.cover {
+    background-image: url("http://apod.nasa.gov/apod/image/1609/SaturnAbove_Cassini_2012.jpg");
+    background-size:cover;
+}
+
+.song-works {
+    margin-left:5%;
+
+}
+
+@media(min-width: 768px){
+    .song-works {
+        margin-left:15%;
+        padding-top:3%;
+    }    
+}
+    
+.poem-works {
+    margin-left:5%;
+}
+
+@media(min-width: 768px){
+    .poem-works {
+        margin-left: 50%
+    }
+}
+
+.prayer-works {
+    margin-left:5%;
+
+}
+
+@media(min-width: 768px){
+    .prayer-works {
+        margin-left: 75%;
+        padding-bottom: 6%;
+    }
+}
+
+.menu-list li a {
+    color:lightgrey;
+    text-shadow: 3px 3px 20px black;
+
+}
