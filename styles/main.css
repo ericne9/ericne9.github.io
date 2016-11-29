@@ -87,6 +87,8 @@ li {
 .cover {
     background-image: url("http://apod.nasa.gov/apod/image/1609/SaturnAbove_Cassini_2012.jpg");
     background-size:cover;
+       width: 100%;
+    min-height: 100vh;
 }
 
 .song-works {
