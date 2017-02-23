@@ -27,6 +27,7 @@ h1 {
 nav {
     background-color: lightgray;
 }
+
 nav a {
     display:inline-block;
     padding: 8px 16px;
