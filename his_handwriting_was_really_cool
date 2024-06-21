@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link href="styles/main.css" rel="stylesheet">
+        <title> His Handwriting Was Really Cool </title>
+    </head>
+    
+    <body class="works-background">
+        <nav> 
+            <a href="index.html">Light and Shadows</a>
+            <a href="index.html">Home</a>
+            <a href="works.html">Works</a>
+            <a href="about.html">About</a>
+        </nav>
+        
+        <div class="main-content"> 
+            <h2> His Handwriting Was Really Cool </h2>
+            
+               <p> 
+                
+I wonder why you thought <br>
+my handwriting was really cool. <br>
+You were the first to say so. <br>
+I’ve always thought it was a dog. <br>
+As it’s grown older it’s grown wilder. <br>
+I can’t keep a leash on it. <br>
+It runs all over the page, <br>
+leaving tracks and droppings everywhere. <br>
+   <br>
+I tried to train him once. <br>
+I dotted my i’s and crossed my t's. <br>
+I curved my capital cee in a graceful arc. <br>
+But my legible letters gave little love. <br>
+The trained lines fenced in all his joy. <br>
+He wanted to run free. <br>
+   <br>
+What was it you saw in my scrawl? <br>
+Was there something wild in those lines? <br>
+Perhaps you saw your own dog running free, <br>
+leaving the marks of your life on every page. <br>
+                   
+               <br>
+                &mdash;Eric Nelson<br><br>
+            <br>
+            </p>
+        </div>
+
+        <p class="credits">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+        <br><br>
+        </p>
+    
+    </body>
+</html>
