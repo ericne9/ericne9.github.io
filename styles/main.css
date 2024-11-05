@@ -25,7 +25,7 @@ h1 {
     padding: 8px 16px;
 }
 nav {
-    background-color: white;
+    background-color: darkgray;
 }
 nav a {
     display:inline-block;
